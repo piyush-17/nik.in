@@ -1,0 +1,9 @@
+.image-16 {
+  width: 100%;
+  position: relative;
+  height: 33px;
+  background-image: url(./public/image-16@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
